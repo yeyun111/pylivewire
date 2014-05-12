@@ -1,6 +1,7 @@
 """
-A crappy Python implementation of intelligent scissors/livewire
+Main module 
 """
+
 import sys
 from PyQt4 import QtGui
 from gui import ImageWin
