@@ -1,7 +1,7 @@
 pylivewire
 ==========
 
-A crappy implementation of intelligent scissors/livewire
+A crappy Python implementation of intelligent scissors/livewire
 Mainly based on this paper
 
 Mortensen E N, Barrett W A. Intelligent scissors for image composition[C]//Proceedings of the 22nd annual conference on Computer graphics and interactive techniques. ACM, 1995: 191-198.
