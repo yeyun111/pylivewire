@@ -1,9 +1,10 @@
 """
-A crappy GUI for intelligent scissors with 
-Left click to set seed
-Right click to finish
-Mid click to export image file
+A crappy GUI for intelligent scissors/livewire with 
+# Left click to set seed
+# Right click to finish
+# Mid click to export image file
 """
+
 from __future__ import division
 import time
 import cv2
